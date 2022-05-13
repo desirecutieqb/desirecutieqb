@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0QKub0
 - 👀 I’m interested in Data science!
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python,JS,HTML&CSS,React
 - 💞️ I’m looking to collaborate on my first project
 - 📫 How to reach me:
 Discord: qkold#4700

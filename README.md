@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Development!
 - 🌱 Currently studying Python,JS,HTML&CSS,Angular,TypeScript
 - 💞️ Looking to collaborate on my first project
-- 📫 How to reach me:
+- 📫 Contact:
 Discord: qkold#4700
 Mail: qkubplay@gmail.com
 

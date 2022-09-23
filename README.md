@@ -3,8 +3,8 @@
 - 🌱 Currently studying Python,JS,HTML&CSS,Angular,TypeScript
 - 💞️ Looking to collaborate on my first project
 - 📫 Contact:
-Discord: qkold#4700
-Mail: qkubplay@gmail.com
+- 📱Discord: qkold#4700
+- 🤠Mail: qkubplay@gmail.com
 
 <!---
 0QKub0/0QKub0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

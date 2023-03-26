@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0QKub0
 - 👀 I’m interested in FrontEnd Development!
-- 🌱 Currently studying Python,JS,HTML&CSS,Angular,TypeScript
+- 🌱 Currently studying JS,HTML&CSS,React,TypeScript
 - 💞️ Looking to collaborate on my first project
 - 📫 Contact:
 - 📱Discord: qkold#4700

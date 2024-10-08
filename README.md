@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @0QKub0
-- 👀 I’m interested in FrontEnd Development!
-- 🌱 Currently studying JS,HTML&CSS,React,TypeScript
-- 📫 Contact:
+- 👋 Hi, I’m Mykyta
+- 🌱 Currently studying TensorFlow,Pandas,NumPy
 - 📱Discord: qkold#4700
-- 🤠Mail: qkubplay@gmail.com
+- 🤠Mail: qkubcommercial@gmail.com
 
 <!---
 0QKub0/0QKub0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

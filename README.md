@@ -1,11 +1,5 @@
-### Stack:
-1.TensorFlow
-
-2.Pandas
-
-3.NumPy
-
-4.AWS
+### My skills:
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,c,react,docker,k8s,aws,mongodb)](https://skillicons.dev)
 
 
 

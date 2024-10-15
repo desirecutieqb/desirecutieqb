@@ -1,5 +1,5 @@
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,c,react,docker,k8s,aws,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,c,react,docker,k8s,aws,mongodb,sqlite,postgresql)](https://skillicons.dev)
 
 
 

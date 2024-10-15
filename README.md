@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Mykyta
-- 🌱 Currently studying TensorFlow,Pandas,NumPy
-- 📱Discord: qkold#4700
-- 🤠Mail: qkubcommercial@gmail.com
+### Stack:
+1.TensorFlow
+
+2.Pandas
+
+3.NumPy
+
+4.AWS
+
+
+
+
+
 
 <!---
 0QKub0/0QKub0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

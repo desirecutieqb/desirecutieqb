@@ -11,7 +11,7 @@ You can check out my live portfolio website [here](https://desirecutieqb.com) to
 ## My Skills
 
 ### Technologies & Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,nextjs,fastapi,angular,redux,stripe,tailwind,mysql,threejs,shadcn,vite,prisma,dynamodb,nodejs,express,python,react,docker,aws,mongodb,sqlite,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,nextjs,fastapi,angular,redux,stripe,tailwind,rxjs,mysql,threejs,shadcn,vite,prisma,dynamodb,nodejs,express,python,react,docker,aws,mongodb,sqlite,postgresql)
 
 ## Connect With Me
 

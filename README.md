@@ -18,7 +18,7 @@ You can check out my live portfolio website [here](https://desirecutieqb.com) to
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out!
 
 - **Portfolio Website:** [desirecutieqb.com](https://desirecutieqb.com)
-- **Email:** [qkubcommercial@gmail.com](mailto:qkubcommercial@gmail.com)
+- **Email:** [qkubcommercial@gmail.com](mailto:mykyta.tarakanov@icloud.com)
 
 <!---
 0QKub0/0QKub0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

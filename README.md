@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building int
 
 ## About Me
 
-I'm Mykyta Tarakanov, a developer driven by curiosity and creativity. I enjoy working on projects that challenge me and push the boundaries of functionality. Whether it's creating dynamic web applications or exploring 3D graphics and animations, I'm always looking for innovative ways to bring ideas to life.
+A developer driven by curiosity and creativity. I enjoy working on projects that challenge me and push the boundaries of functionality. Whether it's creating dynamic web applications or exploring 3D graphics and animations, I'm always looking for innovative ways to bring ideas to life.
 
 You can check out my live portfolio website [here](https://desirecutieqb.com) to see my projects, skills, and experiences in action.
 
